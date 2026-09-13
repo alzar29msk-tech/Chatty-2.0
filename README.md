@@ -63,7 +63,7 @@
 
 ### **3.1.2 Use Case**
 
-![Диаграмма](images/image3.png)
+![Диаграмма](images/image3.jpg)
 
 Рисунок 2\. Диаграмма Use Case для версии 2.0 веб\-приложения Chatty
 
